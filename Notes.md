@@ -1,0 +1,4 @@
+- [] make files (index, info.html, in-stock.html)
+- [] Homepage
+- [] Name of the buisness
+- [] multiple pages
